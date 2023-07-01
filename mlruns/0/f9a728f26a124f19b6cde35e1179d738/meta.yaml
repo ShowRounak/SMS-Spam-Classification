@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/f9a728f26a124f19b6cde35e1179d738/artifacts
+end_time: 1688125666254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9a728f26a124f19b6cde35e1179d738
+run_name: amusing-shoat-435
+run_uuid: f9a728f26a124f19b6cde35e1179d738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688125636425
+status: 4
+tags: []
+user_id: rouna

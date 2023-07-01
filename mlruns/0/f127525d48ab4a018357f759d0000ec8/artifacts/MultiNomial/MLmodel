@@ -1,0 +1,19 @@
+artifact_path: MultiNomial
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.4.1
+model_uuid: c8ffc0138eba43ff8945bd4f98075f0a
+run_id: f127525d48ab4a018357f759d0000ec8
+utc_time_created: '2023-06-30 12:59:52.504950'

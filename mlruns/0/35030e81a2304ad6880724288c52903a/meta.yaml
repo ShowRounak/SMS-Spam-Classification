@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/35030e81a2304ad6880724288c52903a/artifacts
+end_time: 1688125958202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35030e81a2304ad6880724288c52903a
+run_name: capable-shark-771
+run_uuid: 35030e81a2304ad6880724288c52903a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688125928136
+status: 4
+tags: []
+user_id: rouna

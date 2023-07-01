@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/f7d410b959b94ce2bff6c3a3c5d71d87/artifacts
+end_time: 1688061400360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d410b959b94ce2bff6c3a3c5d71d87
+run_name: illustrious-vole-8
+run_uuid: f7d410b959b94ce2bff6c3a3c5d71d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688061377999
+status: 3
+tags: []
+user_id: rouna

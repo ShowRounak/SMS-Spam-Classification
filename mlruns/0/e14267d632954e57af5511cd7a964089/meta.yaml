@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/e14267d632954e57af5511cd7a964089/artifacts
+end_time: 1688127925694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e14267d632954e57af5511cd7a964089
+run_name: likeable-goose-559
+run_uuid: e14267d632954e57af5511cd7a964089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688127923284
+status: 3
+tags: []
+user_id: rouna

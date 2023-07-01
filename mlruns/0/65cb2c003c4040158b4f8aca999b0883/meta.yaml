@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/65cb2c003c4040158b4f8aca999b0883/artifacts
+end_time: 1688124511518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65cb2c003c4040158b4f8aca999b0883
+run_name: casual-horse-120
+run_uuid: 65cb2c003c4040158b4f8aca999b0883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688124505815
+status: 3
+tags: []
+user_id: rouna

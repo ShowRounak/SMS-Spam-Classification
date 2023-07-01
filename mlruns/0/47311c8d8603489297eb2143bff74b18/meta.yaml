@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/47311c8d8603489297eb2143bff74b18/artifacts
+end_time: 1688127436755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47311c8d8603489297eb2143bff74b18
+run_name: mercurial-shark-75
+run_uuid: 47311c8d8603489297eb2143bff74b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688127417129
+status: 4
+tags: []
+user_id: rouna

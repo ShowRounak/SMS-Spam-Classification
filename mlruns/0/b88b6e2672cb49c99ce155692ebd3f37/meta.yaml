@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/b88b6e2672cb49c99ce155692ebd3f37/artifacts
+end_time: 1688126495096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b88b6e2672cb49c99ce155692ebd3f37
+run_name: sneaky-wren-487
+run_uuid: b88b6e2672cb49c99ce155692ebd3f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688126492071
+status: 3
+tags: []
+user_id: rouna

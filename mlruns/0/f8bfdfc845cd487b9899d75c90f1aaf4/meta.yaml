@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/f8bfdfc845cd487b9899d75c90f1aaf4/artifacts
+end_time: 1688125521584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8bfdfc845cd487b9899d75c90f1aaf4
+run_name: awesome-rook-140
+run_uuid: f8bfdfc845cd487b9899d75c90f1aaf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688125515962
+status: 3
+tags: []
+user_id: rouna

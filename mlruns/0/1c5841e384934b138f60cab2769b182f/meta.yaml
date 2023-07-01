@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/1c5841e384934b138f60cab2769b182f/artifacts
+end_time: 1688061730615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c5841e384934b138f60cab2769b182f
+run_name: stylish-grouse-996
+run_uuid: 1c5841e384934b138f60cab2769b182f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688061707971
+status: 3
+tags: []
+user_id: rouna

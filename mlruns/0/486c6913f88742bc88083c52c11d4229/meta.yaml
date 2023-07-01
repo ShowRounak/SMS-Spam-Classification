@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SMS_Spam_classification/mlruns/0/486c6913f88742bc88083c52c11d4229/artifacts
+end_time: 1688125515944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 486c6913f88742bc88083c52c11d4229
+run_name: abundant-elk-867
+run_uuid: 486c6913f88742bc88083c52c11d4229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688125483827
+status: 3
+tags: []
+user_id: rouna
